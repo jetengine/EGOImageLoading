@@ -103,7 +103,7 @@
 					@"http://farm3.static.flickr.com/2670/4011966914_e1849fda91_s.jpg",
 					@"http://farm3.static.flickr.com/2653/4015298872_d4ef36c14a_s.jpg",
 					@"http://farm3.static.flickr.com/2710/4024844149_40dca40cd2_s.jpg",
-					@"http://farm3.static.flickr.com/2546/4012296861_146d4805df_s.jpg",
+					 
 					nil];
 }
 
